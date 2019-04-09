@@ -10,14 +10,14 @@ body {
 header {
   grid-area: header;
   color: white;
-  padding: 10px;
-  font-family: 'Gill Sans';
+  padding: 15px;
+  font-family: 'comic sans';
   font-size: 200%;
   text-align: center;
-  background-image: url('./bridge.jpg');
+  background-image: url('./0.jpeg');
   background-size: cover;
   background-position: center;
-  height: 100vh;
+  height: 50vh;
   display: flex;
   align-items: center;
   justify-content: center;
